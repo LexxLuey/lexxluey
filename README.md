@@ -1,4 +1,43 @@
+![img](https://media.licdn.com/dms/image/D4D16AQF5nZskPwJUQQ/profile-displaybackgroundimage-shrink_350_1400/0/1675104083297?e=1682553600&v=beta&t=hNc-01w7mu_KPkee0nRGu8zuljPo64mF42DeNa0g6FE)
+
+# Lutor 'Lex Luey' Iyornumbe
+Teacher, Youth Guidance & Counselling Coach, Software Solutions Engineer.
+
 ### Hi there 👋
+Welcome to my page. Here is brief overview of who I am and what I do:
+- I am a teacher  by nature. I was a lecturer before becoming a Full Stack Developer.
+- I have always loved computing and video games, so naturally I drifted towards coding in University.
+- I did not start coding until 2017 when I got my first laptop as a coding instructor.
+- I believe in the Zen of Python.
+- I think Nest.js is a freaking great framework. While Node.js is good and allows freedom, I prefer the regiment and structure of Nest.js. Perhaps because I am an old school developer and I am used to following rules and thinking in a synchronous fashion. Perhaps my time with Django also contributed to it.
+- I am a jack of all languages but master of two: **Python** and **JavaScript**. Special mention goes to my first ever programming language: **C++**.
+- I love hosting my projects on either Hostinger, AWS or Digital Ocean. Firebase works excellently for React projects I want to showcase.
+- I also believe every developer should use Docusaurus. It makes Documentation so easy.
+
+
+## 🔭 I’m currently working with 
+Python, Django, DRF, FastAPI, Nest.js, React, JavaScript.
+
+
+## 🌱 I’m currently learning 
+Terraform.
+
+
+## 👯 I’m looking to 
+collaborate on Open Source Projects that require Python/JS Developers.
+
+
+## 🤔 If you are looking for help with 
+Python, Django, DRF, FastAPI, Nest.js, React, JavaScript, AWS, Digital Ocean. Call me.
+
+
+## 📫 How to reach me:
+email: biggestluey@gmail.com
+
+LinkedIn: [Lexx](https://www.linkedin.com/in/lexx-lutor/)
+
+Github: Well... you are here aren't you? 😄
+
 
 <!--
 **LexxLuey/lexxluey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
