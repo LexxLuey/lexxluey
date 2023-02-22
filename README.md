@@ -14,6 +14,18 @@ Welcome to my page. Here is brief overview of who I am and what I do:
 - I love hosting my projects on either Hostinger, AWS or Digital Ocean. Firebase works excellently for React projects I want to showcase.
 - I also believe every developer should use Docusaurus. It makes Documentation so easy.
 
+# My Experience
+
+## :construction_worker: Places I have worked:
++ Right Click Solutions **(2022 - present)**
+  + Lead Full Stack Developer  
++ EF Network LTD **(2020 - 2022)**
+  + Technical support/Junior Developer 
++ Gboko High School **(2019-2020)**
+  + Computer Science Teacher (JSS1) 
++ Gboko Polytechnic **(2017 - 2020)**
+  + Computer Science Lecturer (ND1 - HND2) 
+
 
 ## 🔭 I’m currently working with 
 Python, Django, DRF, FastAPI, Nest.js, React, JavaScript.
