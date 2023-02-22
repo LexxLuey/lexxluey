@@ -18,13 +18,24 @@ Welcome to my page. Here is brief overview of who I am and what I do:
 
 ## :construction_worker: Places I have worked:
 + Right Click Solutions **(2022 - present)**
-  + Lead Full Stack Developer  
+  + Lead Full Stack Developer
+     + [ADaMS](https://adamsppmc.com/)
+     + [EMMS](https://nipex-uat.emmsportal.com/)
+     + [NUIMS360](https://dev.napims360.com/)
+     + [Inventory Mgt System](46.101.210.182/)
+     + [Right Click Solutions](rightclicksolutions.com.ng)
+     + [Code Hut](https://pms-node.web.app/)
 + EF Network LTD **(2020 - 2022)**
   + Technical support/Junior Developer 
+    + [EF Contact](https://efcontact.com) 
+    + [EF Skyview](https://efskyview.com) 
 + Gboko High School **(2019-2020)**
   + Computer Science Teacher (JSS1) 
 + Gboko Polytechnic **(2017 - 2020)**
   + Computer Science Lecturer (ND1 - HND2) 
++ Freelance gigs
+  + [Wordshop](https://wordshop.christfamilyministries.org)
+  + [Gboko Polytechnic Portal](https://portal-gbokopoly.org/)
 
 
 ## 🔭 I’m currently working with 
