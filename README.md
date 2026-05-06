@@ -1,100 +1,105 @@
-![img](https://media.licdn.com/dms/image/D4D16AQF5nZskPwJUQQ/profile-displaybackgroundimage-shrink_350_1400/0/1675104083297?e=1682553600&v=beta&t=hNc-01w7mu_KPkee0nRGu8zuljPo64mF42DeNa0g6FE)
-
-# Lutor 'Lex Luey' Iyornumbe
-Teacher, Youth Guidance & Counselling Coach, Software Solutions Engineer.
+# Lex 'Lex Luey' Iyornumbe
+**Senior Full Stack & AI Engineer · Cloud Architect · Open Source Author**
 
 ### Hi there 👋
-Welcome to my page. Here is brief overview of who I am and what I do:
-- I am a teacher  by nature. I was a lecturer before becoming a Full Stack Developer.
-- I have always loved computing and video games, so naturally I drifted towards coding in University.
-- I did not start coding until 2017 when I got my first laptop as a coding instructor.
-- I believe in the Zen of Python.
-- I think Nest.js is a freaking great framework. While Node.js is good and allows freedom, I prefer the regiment and structure of Nest.js. Perhaps because I am an old school developer and I am used to following rules and thinking in a synchronous fashion. Perhaps my time with Django also contributed to it.
-- I am a jack of all languages but master of two: **Python** and **JavaScript**. Special mention goes to my first ever programming language: **C++**.
-- I love hosting my projects on either Hostinger, AWS or Digital Ocean. Firebase works excellently for React projects I want to showcase.
-- I also believe every developer should use Docusaurus. It makes Documentation so easy.
+Welcome to my GitHub. Here's who I am and what I've been up to:
 
-# My Experience
+- 👨‍🏫 I was a **Computer Science Lecturer** before becoming a Full Stack Developer — teaching is still in my DNA.
+- 🐍 I am a jack of all languages but master of two: **Python** and **JavaScript/TypeScript**. Special mention goes to my first ever programming language: **C++**.
+- 🏗️ I think **Nest.js** is a great framework — I love structure, regiment, and thinking in a disciplined fashion. **FastAPI** is my current go-to for backend APIs.
+- 🤖 I'm deeply invested in **AI-powered systems** — from conversational agents and speech pipelines to ML models on edge devices.
+- 📦 I believe every developer should use [Docusaurus](https://docusaurus.io/) — check out [my portfolio](https://lex-luey-portfolio.onrender.com/) to see it in action.
+- ☁️ I love deploying on **AWS**, **GCP**, **Digital Ocean**, and **Hostinger**. Firebase works great for React showcases.
+- ✅ I believe in the **Zen of Python**, TDD, DDD, and writing code that's clean enough for AI to understand and humans to maintain.
 
-## :construction_worker: Places I have worked:
-+ Right Click Solutions **(2022 - present)**
-  + Lead Full Stack Developer
-     + [ADaMS](https://adamsppmc.com/)
-     + [EMMS](https://nipex-uat.emmsportal.com/)
-     + [NUIMS360](https://dev.napims360.com/)
-     + [Inventory Mgt System](46.101.210.182/)
-     + [Right Click Solutions](rightclicksolutions.com.ng)
-     + [Code Hut](https://pms-node.web.app/)
-     + [Digital Office](http://digital-office.rightclicksolutions.com.ng/)
-+ EF Network LTD **(2020 - 2022)**
-  + Technical support/Junior Developer 
-    + [EF Contact](https://efcontact.com) 
-    + [EF Skyview](https://efskyview.com) 
-+ Gboko High School **(2019-2020)**
-  + Computer Science Teacher (JSS1) 
-+ Gboko Polytechnic **(2017 - 2020)**
-  + Computer Science Lecturer (ND1 - HND2) 
-+ Freelance gigs
-  + [Wordshop](https://wordshop.christfamilyministries.org)
-  + [Gboko Polytechnic Portal](https://portal-gbokopoly.org/)
+---
 
+## 🔭 What I'm Currently Working On
 
-## 🔭 Stacks 
-<p align="left"> 
-    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
-    <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/typescript.png"/> </a>
-<!--     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a> -->
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a>
-    <a href="https://react.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
-<!--     <a href="https://www.php.net/" target="_blank"> <img src="https://img.icons8.com/officel/48/000000/php-logo.png"/> </a>  -->
-<!--     <a href="https://kotlinlang.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/kotlin.png"/> </a>  -->
-<!--     <a href="https://angular.io/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/angularjs.png"/> </a>  -->
-    <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://img.icons8.com/ios/48/000000/flask.png"/> </a> 
-    <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/django.png"/> </a>
-    <a href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
-    <a href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
-    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a> 
-<!--     <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> -->
-<!--    <a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png"/> </a> -->
-<!--    <a href="https://spring.io/projects/spring-boot" target="_blank"> <img src="https://img.icons8.com/color/48/000000/spring-logo.png"/> </a>  -->
-   <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a>
-   <a href="https://aws.amazon.com/amplify/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/> </a>
-   <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
-<!--    <a href="https://developer.android.com/studio" target="_blank"> <img src="https://img.icons8.com/color/48/000000/android-studio--v2.png"/> </a>  -->
-<!--    <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> </a> -->
-<!--    <a href="https://wordpress.com/" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/wordpress.png"/> </a>     -->
-</p>
+- **[Atom Group](https://deylegen-frontend.vercel.app/)** — Senior Backend Engineer building AI/conversational systems, social media integrations, and content automation pipelines.
+- **[Fascraft](https://pypi.org/project/fascraft/)** — My open-source FastAPI scaffolding tool, published on PyPI. Designed to get FastAPI projects started fast and right.
+- **Real-time Multiplayer Card Game** — Tech Lead on a high-traffic, real-time gaming platform with payment gateway integration and fraud protection.
 
+---
 
-## 👯 I’m looking to 
-Collaborate on Open Source Projects that require Python/JS Developers.
+## 🧠 Featured Projects
 
+| Project | Description | Stack |
+|---|---|---|
+| [Deylegen](https://deylegen-frontend.vercel.app/) | AI-powered social media & content automation platform | FastAPI, AWS, PostgreSQL, Redis |
+| [Local Mayor](https://local-mayor-atom.vercel.app/) | Business intelligence & community management platform | FastAPI, Python |
+| [Atom Audio Engine](https://pypi.org/project/atom-audio-engine/) | Modular speech-to-text → LLM → text-to-speech pipeline | Python, DeepgramASR, CartesiaASR |
+| [Digital Avatar Platform](https://voice-agent-phi-three.vercel.app) | Upload a video, create a realistic AI avatar that can see you, talk with you, and be interrupted naturally in real-time | FastAPI, WebRTC, LLM |
+| [Fascraft](https://pypi.org/project/fascraft/) | FastAPI project scaffolding tool | Python, PyPI |
+| [Entrecore](https://staging.entrecore.com/) | ELT pipeline + REST API + LangGraph agents for business data intelligence | Python, LangGraph, BigQuery, Netsuite |
+| [Intelligent Transport System](https://skingserver.top:5173/) | Road anomaly detection with ML/CV models on edge devices + admin dashboard | Python, ML, Docker, GitHub Actions |
+| [ADaMS](https://adamsppmc.com/) | Data Management Solution | Django, React |
+| [EMMS](https://nipex-uat.emmsportal.com/) | Electronic Material Management System | Django, React |
+| [NUIMS360](https://dev.napims360.com/) | Upstream information management system | Django, React |
+| [Wordshop](https://wordshop.christfamilyministries.org) | Freelance web platform | React |
 
-## 🤔 If you are looking for help with 
-Python, Django, DRF, FastAPI, Nest.js, React, JavaScript, AWS, Digital Ocean. Call me.
+---
 
+## 🛠️ Stacks
 
-## 📫 How to reach me:
-email: biggestluey@gmail.com
+**Languages**
 
-LinkedIn: [Lexx](https://www.linkedin.com/in/lexx-lutor/)
+![Python](https://img.icons8.com/color/48/000000/python.png)
+![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
+![TypeScript](https://img.icons8.com/color/48/000000/typescript.png)
+![HTML5](https://img.icons8.com/color/48/000000/html-5.png)
+![CSS3](https://img.icons8.com/color/48/000000/css3.png)
 
-Github: Well... you are here aren't you? 😄
+**Backend**
 
+![FastAPI](https://img.icons8.com/ios/48/000000/flask.png)
+![Django](https://img.icons8.com/color/48/000000/django.png)
+![Node.js](https://img.icons8.com/color/48/000000/nodejs.png)
 
-<!--
-**LexxLuey/lexxluey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Frontend**
 
-Here are some ideas to get you started:
+![React](https://img.icons8.com/color/48/000000/react-native.png)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Databases & Infra**
+
+![PostgreSQL](https://img.icons8.com/color/48/000000/postgreesql.png)
+![MySQL](https://img.icons8.com/fluent/50/000000/mysql-logo.png)
+![AWS](https://img.icons8.com/color/48/000000/amazon-web-services.png)
+![Firebase](https://img.icons8.com/color/48/000000/firebase.png)
+![Git](https://img.icons8.com/color/48/000000/git.png)
+
+---
+
+## 🏢 Places I've Worked
+
+- **Atom Group** *(Oct 2025 – Present)* · Senior Backend Engineer (Remote)
+- **Punch Agency** *(Apr 2024 – Jan 2026)* · Software Developer (Remote)
+- **Intelligent Transport Project** *(Aug 2025 – Jan 2026)* · Senior Full Stack AI Engineer
+- **Real-time Card Game** *(Jan 2025 – Aug 2026)* · Lead Developer
+- **Right Click Solutions, Abuja** *(Jan 2022 – Jan 2024)* · Lead Full Stack Developer
+- **EF Network Ltd, Abuja** *(Sep 2020 – Dec 2021)* · Junior Developer / Technical Support
+- **Gboko High School** *(2019 – 2020)* · Computer Science Teacher (JSS1)
+- **Gboko Polytechnic** *(2017 – 2020)* · Computer Science Lecturer (ND1 – HND2)
+
+---
+
+## 👯 I'm Looking to Collaborate On
+
+Open Source projects that need Python/JS engineers — especially anything involving **AI agents**, **real-time systems**, or **backend infrastructure**.
+
+---
+
+## 🤔 Need Help With?
+
+**Python · Django · DRF · FastAPI · NestJS · React · Node.js · AWS · GCP · Docker · Kubernetes · LangGraph · AI integrations**
+
+Give me a shout.
+
+---
+
+## 📫 Reach Me
+
+- 🌐 Portfolio: [lex-luey-portfolio.onrender.com](https://lex-luey-portfolio.onrender.com/)
+- 💼 LinkedIn: [lexx-lutor](https://www.linkedin.com/in/lexx-lutor/)
+- 📧 Email: biggestluey@gmail.com
+- 💻 GitHub: Well… you're already here 😄
